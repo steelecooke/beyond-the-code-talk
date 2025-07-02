@@ -24,6 +24,6 @@ plt.legend()
 plt.tight_layout()
 
 # Save the plot to a file
-plt.savefig('plot.png')
+plt.savefig('/output/plot.png')
 print("Plot saved as plot.png")
 
